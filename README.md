@@ -8,7 +8,7 @@ Shorten an url in your clipboard.
 $ go get github.com/hotchemi/surl
 ```
 
-Usage
+## Usage
 
 Just execute `surl` command.
 
